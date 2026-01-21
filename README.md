@@ -1,16 +1,13 @@
-## Hi there 👋
+Introducing Myself
 
-<!--
-**merveillemoke/merveillemoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![BannerLinkIned](https://github.com/user-attachments/assets/29a10407-bd07-4ba1-acde-81675c4df01f)
 
-Here are some ideas to get you started:
+Hello, I'm Merveille. Data Analyst with expertise in data analysis and reporting, database design, and data modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Querying data using SQL
+ - Generate reports and perform data analysis using SQL
+ - Developing dashboards on Tableau
+ - Data analysis and reporting using Excel and Google Sheets
+
+
+
