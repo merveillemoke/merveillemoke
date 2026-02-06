@@ -18,7 +18,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/merve
  - Visualization: Tableau
 
 ## Connect with ME
- - LinkedIn
+ - [LinkedIn](https://www.linkedin.com/in/merveille-moke/)
 
 
 
