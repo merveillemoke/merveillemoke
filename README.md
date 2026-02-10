@@ -13,7 +13,7 @@ Hello, I'm Merveille. Data Analyst with expertise in data analysis and reporting
 Welcome to my portfolio, where I showcase my [projects](https://github.com/merveillemoke/Portfolio-Guide/blob/main/README.md)
 
 ## Tools
- - Language: SQL, Python
+ - Language: SQL, Python, R
  - Database: MySQL
  - Visualization: Tableau
 
